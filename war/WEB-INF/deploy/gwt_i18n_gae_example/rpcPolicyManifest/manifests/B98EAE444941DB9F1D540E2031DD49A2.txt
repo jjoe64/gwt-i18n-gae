@@ -1,0 +1,2 @@
+serviceClass: com.jjoe64.gwti18ngae.example.client.GreetingService
+path: 6DE547A193CF9226BD5D4FAE9B81FF1E.gwt.rpc
